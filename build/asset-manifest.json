@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/theinnovativesolution/static/css/main.1361a1ca.css",
+    "main.js": "/theinnovativesolution/static/js/main.b0c8c659.js",
+    "static/media/abo.gif": "/theinnovativesolution/static/media/abo.c9a88b5a2e8d1c0a93bb.gif",
+    "static/media/android.jpg": "/theinnovativesolution/static/media/android.374c03de4110e32e67bc.jpg",
+    "static/media/team2.jpeg": "/theinnovativesolution/static/media/team2.f76b1c642e1b8e79a6d9.jpeg",
+    "static/media/web.jpeg": "/theinnovativesolution/static/media/web.c0323ba7dee2ae7f5cc7.jpeg",
+    "static/media/apply2.jpg": "/theinnovativesolution/static/media/apply2.493284f3e0038e9353b6.jpg",
+    "static/media/apply_now.jpg": "/theinnovativesolution/static/media/apply_now.4e7ec0cde46b16d67dac.jpg",
+    "static/media/LOGO JPG.jpg": "/theinnovativesolution/static/media/LOGO JPG.533b8dee15e8fd5efc43.jpg",
+    "static/media/the.jpg": "/theinnovativesolution/static/media/the.d525f047bf13472693fd.jpg",
+    "static/media/vision.png": "/theinnovativesolution/static/media/vision.43691be6955880ca9df8.png",
+    "static/media/mission.png": "/theinnovativesolution/static/media/mission.0d17aa25029c9c84843c.png",
+    "index.html": "/theinnovativesolution/index.html",
+    "main.1361a1ca.css.map": "/theinnovativesolution/static/css/main.1361a1ca.css.map",
+    "main.b0c8c659.js.map": "/theinnovativesolution/static/js/main.b0c8c659.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1361a1ca.css",
+    "static/js/main.b0c8c659.js"
+  ]
+}

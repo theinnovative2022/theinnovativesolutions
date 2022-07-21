@@ -1,0 +1,286 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+}
+/* LOGO */
+#img{
+  margin-top: 10px!important;
+  margin-left: -15px!important;
+}
+/* NAVBAR */
+.navbar{
+  background-color: white!important;
+}
+.navbar-brand{
+  font-size: 1.9rem!important;
+  color: #033e3e!important;
+}
+.navbar a {
+  font-size: 1.3rem;
+  text-transform: capitalize;
+  font-weight: bold!important;
+}
+.navbar a:hover{
+  color: #43c6db!important;
+  border-bottom: 2px solid #0f254d!important;
+}
+.brand-name{
+  color: #43c6db;
+}
+/*HOME SECTION*/
+h1{
+  margin-top: 130px!important;
+}
+h2{
+  font-weight: bold!important;
+}
+img{
+  margin-top: 50px!important;
+  margin-left: 50px!important;
+}
+/* SOCIAL ICONS */
+.social{
+  margin-left: -250px;
+  color: white;
+  margin-top: 140px;
+}
+
+.social a:hover{
+  color: skyblue;
+}
+.facebook{
+  color: white;
+  text-decoration: none;
+  padding: 5px;
+  font-size: 20px;
+
+}
+.instagram{
+  color: white;
+  text-decoration: none;
+  padding: 5px;
+  font-size: 20px;
+
+}
+.twitter{
+  color: white;
+  text-decoration: none;
+  padding: 5px;
+  font-size: 20px;
+
+}
+.linkdin{
+  color: white;
+  text-decoration: none;
+  padding: 5px;
+  font-size: 20px;
+
+}
+.animated{
+  animation: up-down 2s ease-in-out infinite alternate-reverse ;
+}
+@keyframes up-down {
+  0%{
+    transform: translateY(10px);
+  }
+  100%{
+    transform: translateY(-10px);
+  }
+}
+
+/* ABOUT SECTION */
+ #us{
+  margin-bottom: 20px;
+  text-align: center;
+  
+}
+.text{
+  width: 530px;
+  margin-left: 700px;
+  margin-top: -670px;
+  font-size: 18px;
+  letter-spacing: 0px;
+  padding: 20px;
+}
+
+.about_img{
+  margin-top: 50px;
+  margin-left: 50px;
+  animation: up-down 2s ease-in-out infinite alternate-reverse ;
+  @keyframes up-down {
+    0%{
+      transform: translateY(10px);
+    }
+    100%{
+      transform: translateY(-10px);
+    }
+  }
+}
+.visiondiv{
+  position: relative;
+  margin-top: 30px;
+}
+.vision_img{
+  float: left;
+  margin-left: 40px;
+  
+}
+.visionp{
+  position: absolute;
+  width: 280px;
+  margin-top: 210px;
+  margin-left: 80px;
+  font-size: 20px;
+}
+.mision_img{
+float: right;
+margin-right: 310px;
+}
+.misionp{
+  position: absolute;
+  width: 350px;
+  margin-top: 210px;
+  margin-left: 780px;
+  font-size: 20px;
+  
+}
+.nilesh{
+  position: sticky!important;
+}
+.about_main {
+  margin-left: 956px;
+  width: 50px;
+  position: sticky!important;
+  
+}
+.about_facebook{
+  display: inline;
+  color: blue;
+  margin-top: 0px;
+  padding: 3px;
+  text-decoration: none;
+  font-size: 30px;
+  
+}
+.about_instagram{
+  display: inline;
+  color: blue;
+  padding: 3px;
+  text-decoration: none;
+  font-size: 30px;
+  
+}
+.about_twitter{
+  display: inline;
+  color: blue;
+  padding: 3px;
+  text-decoration: none;
+  font-size: 30px;
+  
+}
+.about_linkdin{
+  display: inline;
+  color: blue;
+  padding: 3px;
+  text-decoration: none;
+  font-size: 30px;  
+} 
+
+/*footer section */
+.footer{
+  margin-top: 165px;
+  text-decoration: none;
+  font-size:  20px;
+  display: flex;
+  display: flex;
+  flex-wrap: wrap;
+}
+.list0{
+  margin-top: 10px;
+  font-size: 16px;
+}
+.career_div{
+  color: white;
+  margin-left: 110px;
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+.link{
+  text-decoration: none;
+}
+
+
+.mail{
+  color: white;
+  margin-top: 9px;
+  text-decoration: none;
+  font-size: 15px;
+  margin-left: 10px;
+}
+#aicon{
+  margin-top: 50px;
+  margin-left: 250px;
+  margin-right: 5px;
+  color: white;
+  font-size: 15px;
+}
+#picon{
+  margin-top: 90px;
+  margin-left: -19px;
+  margin-right: -70px;
+  color: white;
+  font-size: 15px;
+}
+#micon{
+  color: white;
+  font-size: 20px;
+  margin-top: 125px;
+  margin-left: 50px;
+}
+.googlemap{
+  margin-top: -190px;
+  margin-left: 900px;
+  float: right;
+}
+
+/*career*/
+.join{
+  color: white;
+  margin-left: 20px;
+  margin-bottom: 40px;
+  font-size: 40px;
+}
+.apply{
+  width: 300px;
+  height: 50px;
+  margin-left: 410px;
+  margin-top: -80px;
+}
+.container{
+  margin-top: -170px;
+  margin-left: 80px;
+}
+.start{
+  width: 320px;
+  margin-top: -175px;
+  margin-left: 370px;
+  font-weight: bold;
+}
+
+/*contact*/
+.contact_div{
+  margin-top: 70px;
+  margin-left: 30px;
+}
+.service_main{
+  margin-top: 80px;
+  margin-left: 90px;
+}
+.service_second{
+  margin-top: 5px;
+  margin-left: 90px;
+}
+
